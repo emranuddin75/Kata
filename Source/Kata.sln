@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kata.Tests", "Kata.Tests\Kata.Tests.csproj", "{625B97FB-B65C-4A3D-8D90-82928793605A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kata.Core", "Kata.Core\Kata.Core.csproj", "{7046EA2D-9EEB-4C87-82C5-A636C80A3376}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Diamond", "Diamond.Console\Diamond.csproj", "{6B00983F-F590-465B-A62B-1372F671CAA0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{625B97FB-B65C-4A3D-8D90-82928793605A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{625B97FB-B65C-4A3D-8D90-82928793605A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{625B97FB-B65C-4A3D-8D90-82928793605A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{625B97FB-B65C-4A3D-8D90-82928793605A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7046EA2D-9EEB-4C87-82C5-A636C80A3376}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7046EA2D-9EEB-4C87-82C5-A636C80A3376}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7046EA2D-9EEB-4C87-82C5-A636C80A3376}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7046EA2D-9EEB-4C87-82C5-A636C80A3376}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B00983F-F590-465B-A62B-1372F671CAA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B00983F-F590-465B-A62B-1372F671CAA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B00983F-F590-465B-A62B-1372F671CAA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B00983F-F590-465B-A62B-1372F671CAA0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B297C151-3066-4DB9-9FD6-A24E736A16F0}
+	EndGlobalSection
+EndGlobal
